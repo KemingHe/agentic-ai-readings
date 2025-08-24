@@ -1,6 +1,6 @@
 # Contributing
 
-> Updated on 2025-08-17 by @KemingHe
+> Updated on 2025-08-23 by @KemingHe
 
 Quick start guide for contributors adding research papers and industry reports to the agentic AI collection.
 
@@ -13,20 +13,21 @@ Quick start guide for contributors adding research papers and industry reports t
    - [ ] Recent (2022+) or foundational paper
    - [ ] Peer-reviewed research, established companies, recognized experts  
    - [ ] Text-searchable PDF with clear abstract
+   - [ ] Sourced from authoritative sites ([arXiv](https://arxiv.org/), [ACM Digital Library](https://dl.acm.org/), [Google Scholar](https://scholar.google.com/)) for full version lineage
 
-2. **Name file**: `YYYY-MM-descriptive-title-by-author.pdf`
+2. **Name file**: `YYYY-MM-descriptive-title-by-author.pdf` (use **first** publishing date, not latest version)
 
    ```plaintext
-   2025-08-transformer-architecture-by-google.pdf
+   2017-06-attention-is-all-you-need-by-google.pdf  # Original publication date
    ```
 
 3. **Choose directory**:
    - [**`industry-reports/`**](./industry-reports/): Market analysis, trends, workforce insights
    - [**`product-guides/`**](./product-guides/): Product documentation, certification programs  
    - [**`research-ml-llms/`**](./research-ml-llms/): ML/LLM foundations, optimization, best practices
-   - [**`research-multi-agent/`**](./research-multi-agent/): Multi-agent systems, frameworks, coordination
+   - [**`research-agentic-systems/`**](./research-agentic-systems/): Multi-agent systems, frameworks, coordination
 
-4. **Generate audio**: Upload PDF → [NotebookLM](https://notebooklm.google.com) → Generate overview → Save as `.wav`
+4. **Generate audio**: Upload PDF → [NotebookLM](https://notebooklm.google.com) → Generate audio/video overview → Save as `.wav`/`.mp4`
 
 5. **Submit PR**: Reference issue or explain added value
 
