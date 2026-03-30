@@ -1,8 +1,14 @@
-# Agentic AI Readings
-
-> Updated on 2025-08-23 by @KemingHe
+# ⚠️ [Archived] ⚠️ Agentic AI Readings
 
 A curated collection of research papers, industry reports, and product guides to inform and empower careers in agentic AI systems. Each document includes a NotebookLM-generated podcast/video for accessible learning on-the-go.
+
+> [!WARNING]
+>
+> This repository is archived and no longer maintained. **All Google Drive share links will NO LONGER WORK.**
+>
+> - **Archived**: 2026-03-29 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive Reason**: Author now focusing on different career priorities
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 ## 📁 Structure
 
